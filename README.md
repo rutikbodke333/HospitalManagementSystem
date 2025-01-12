@@ -44,7 +44,7 @@ The entire project mainly consists of 3 modules, which are:
 *Users can update their profile, change their password, and recover their password.*
 
 ### Patient Dashboard
-![Patient Medical History](https://github.com/rutikbodke333/HospitalManagemnetSystem/blob/main/User-Dashboard-01-12-2025_12_27_PM.png?raw=true)
+![Patient Medical History](https://github.com/rutikbodke333/HospitalManagementSystem/blob/main/User-Dashboard-01-12-2025_12_27_PM.png?raw=true)
 
 ---
 
@@ -58,4 +58,4 @@ The entire project mainly consists of 3 modules, which are:
 *Doctors can also update their profile, change their password, and recover their password.*
 
 ### Doctor Dashboard
-![Doctor Dashboard](https://github.com/rutikbodke333/HospitalManagemnetSystem/blob/main/Doctor-Dashboard-01-12-2025_12_35_PM.png?raw=true)
+![Doctor Dashboard](https://github.com/rutikbodke333/HospitalManagementSystem/blob/main/Doctor-Dashboard-01-12-2025_12_35_PM.png?raw=true)
